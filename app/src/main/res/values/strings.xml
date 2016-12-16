@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sanjivini Homeopathy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="banner_footer">ca-app-pub-8586622059217734/1672967002</string>
+    <string name="interstitial_full_screen_ad">ca-app-pub-8586622059217734/4346048607</string>
+    <string name="action_settings">Settings</string>
+</resources>
